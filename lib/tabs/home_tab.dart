@@ -460,7 +460,7 @@ class _HomeTabState extends State<HomeTab> {
             SizedBox(width: 10),
             Expanded(
               child: Text(
-                "Search Property",
+                "Search chaitanya",
                 style: GoogleFonts.inter(
                   fontSize: 15,
                   fontWeight: FontWeight.normal,
